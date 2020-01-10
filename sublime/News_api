@@ -1,0 +1,35 @@
+import requests
+import smtplib
+import time
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+
+def return_news():
+    url = 'https://newsapi.org/v2/everything?domains=wsj.com&apiKey=3a420d3c1ad04181bdd80b8d60584a44'
+    content = requests.get(url).json()
+    inside = content['articles']
+    articles = [con["title"] + ":\n" + con["description"] + "\n\n" for con in inside]
+    return str(articles)[1:8]
+def sendmail(from_email, password, to_email, subject,  message):
+    msg = MIMEMultipart()
+    msg['From'] = from_email
+    msg['To'] = to_email
+    msg['Subject'] = subject
+
+    msg.attach(MIMEText(message, "plain"))
+    try:
+        server = smtplib.SMTP_SSL("smtp.gmail.com", 465)
+        server.ehlo()
+        server.login(from_email, password)
+        server.sendmail(from_email, to_email, str(msg))
+        server.close()
+        return True
+    except Exception as e:
+        print("Something went wrong" + str(e))
+
+if __name__ == '__main__':
+    time_1 = time.localtime()
+    message = str(return_news())
+    sendmail('python.analyssis@gmail.com', 'Fuckfortnite123', 'matej.cervenka03@gmail.com', 'morning news', message)
+
+
