@@ -1,9 +1,10 @@
 import numpy as np
 
 
+def gp(n):
+    return [n[0]] + gp([i for i in n[1:] if i%n[0] != 0]) if n else []    
+
 def gen_primes(n):
-    def gp(n):
-        return [n[0]] + gp([i for i in n[1:] if i%n[0] != 0]) if n else []
     return gp(range(2,n))
 
 def delitel_find(num):
@@ -27,7 +28,6 @@ def základní_tvar(čitatel, jmenovatel):
             čit.remove(n)
 
     return [np.prod(čit), np.prod(jmen)]
-
 
 
 class zlomek:
