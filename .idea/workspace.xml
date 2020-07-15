@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcb610ac-f3eb-4320-a522-6d5579c1106f" name="Default Changelist" comment="" />
+    <list default="true" id="fcb610ac-f3eb-4320-a522-6d5579c1106f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pycharm_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pycharm_code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gjk_course/bubbble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/gjk_course/bubbble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gjk_course/bubble_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/gjk_course/bubble_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_projects/nasa_picture_of_the_day.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_projects/nasa_picture_of_the_day.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/weather" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TbwA6gx3uhh7AWJidrGSHddIqG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,8 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fbchattt">
-    <configuration name="example_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bivattus">
+    <configuration name="bivattus" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycharm_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,12 +68,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random_projects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/covid19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_projects/example_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/covid19/bivattus.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,6 +126,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/covid19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/covid19/prac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="prask" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pycharm_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,35 +170,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swapi_debug" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pycharm_code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/random_projects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_projects/swapi_debug.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bivattus" />
+        <item itemvalue="Python.prac" />
         <item itemvalue="Python.fbchattt" />
         <item itemvalue="Python.lists_hacker" />
         <item itemvalue="Python.prask" />
-        <item itemvalue="Python.swapi_debug" />
-        <item itemvalue="Python.example_1" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +222,9 @@
       <workItem from="1575914003724" duration="247000" />
       <workItem from="1575960351185" duration="731000" />
       <workItem from="1576047664345" duration="33000" />
+      <workItem from="1585074195384" duration="3862000" />
+      <workItem from="1585137658358" duration="1193000" />
+      <workItem from="1585227808090" duration="824000" />
     </task>
     <servers />
   </component>
@@ -233,11 +244,22 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/random_projects/fbchattt.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pycharm_code$delit.coverage" NAME="delit Coverage Results" MODIFIED="1574019252784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pycharm_code$start.coverage" NAME="start Coverage Results" MODIFIED="1575483670326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random_projects" />
     <SUITE FILE_PATH="coverage/pycharm_code$star_trek.coverage" NAME="star_trek Coverage Results" MODIFIED="1575314117310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gjk_course" />
     <SUITE FILE_PATH="coverage/pycharm_code$fbchattt.coverage" NAME="fbchattt Coverage Results" MODIFIED="1575961022680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random_projects" />
+    <SUITE FILE_PATH="coverage/scratch_code$bivattus.coverage" NAME="bivattus Coverage Results" MODIFIED="1585137740187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/covid19" />
     <SUITE FILE_PATH="coverage/pycharm_code$swapi_debug.coverage" NAME="swapi_debug Coverage Results" MODIFIED="1575547472631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random_projects" />
     <SUITE FILE_PATH="coverage/pycharm_code$lists_hacker.coverage" NAME="lists_hacker Coverage Results" MODIFIED="1575897413576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank" />
     <SUITE FILE_PATH="coverage/pycharm_code$finding_percentage.coverage" NAME="finding_percentage Coverage Results" MODIFIED="1575211185056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank" />
@@ -245,6 +267,7 @@
     <SUITE FILE_PATH="coverage/pycharm_code$weather_api.coverage" NAME="weather_api Coverage Results" MODIFIED="1574774921772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gjk_py" />
     <SUITE FILE_PATH="coverage/pycharm_code$time.coverage" NAME="time Coverage Results" MODIFIED="1574693659931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gjk_py" />
     <SUITE FILE_PATH="coverage/pycharm_code$news.coverage" NAME="news Coverage Results" MODIFIED="1574775007736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json" />
+    <SUITE FILE_PATH="coverage/scratch_code$prac.coverage" NAME="prac Coverage Results" MODIFIED="1585137711195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/covid19" />
     <SUITE FILE_PATH="coverage/pycharm_code$example_1.coverage" NAME="example_1 Coverage Results" MODIFIED="1575546311057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random_projects" />
     <SUITE FILE_PATH="coverage/pycharm_code$prask.coverage" NAME="prask Coverage Results" MODIFIED="1575560437068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gjk_course" />
     <SUITE FILE_PATH="coverage/pycharm_code$nested_lists.coverage" NAME="nested lists Coverage Results" MODIFIED="1574674009426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hacker_rank" />
